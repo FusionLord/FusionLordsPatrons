@@ -12,5 +12,5 @@
 !/build.bat
 !/build.sh
 !/gradle.properties
-!/webresources
+!/webassets
 .DS_Store
