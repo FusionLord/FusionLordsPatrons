@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fusionlordspatrons",
+  "name": "FusionLord's Patrons",
+  "description": "Provides assets and shared code for my patrons",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FusionLord"],
+  "credits": "",
+  "logoFile": "/assets/graves/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
